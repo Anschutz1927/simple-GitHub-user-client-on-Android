@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GitHubUserClient</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">login:</string>
+    <string name="name">name:</string>
+    <string name="email">email:</string>
+    <string name="company">company:</string>
+    <string name="avatar">avatar</string>
+    <string name="repos_desc">repos desc</string>
+    <string name="repos_name">repos name</string>
+    <string name="img">img</string>
+    <string name="page">page</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="srch_by_login">Search by login</string>
+    <string name="input_login_here">Input login here.</string>
+    <string name="finder">finder</string>
+</resources>
